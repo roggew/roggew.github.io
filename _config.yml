@@ -1,11 +1,11 @@
 # Site settings
-author: William Rogge
-title: 
+author: Billy Rogge
+title: What Better Time?
 header-img: img/home-bg.png
 email: williamroggeiv@gmail.com
-copyright_name: William Rogge
+copyright_name: Billy Rogge
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  roggew
